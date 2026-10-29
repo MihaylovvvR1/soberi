@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="public/brand/logo-original.png" alt="СОБЕРИ" width="480" />
+<a href="docs/media/soberi-intro.mp4">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="public/brand/logo-original.png" />
+  <img src="docs/media/soberi-intro.gif" alt="СОБЕРИ — анимация фирменного логотипа" width="640" />
+</picture>
+</a>
 
 ### От идеи до события
 
@@ -12,7 +17,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8-003AFD?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
 [![Локальные данные](https://img.shields.io/badge/данные-локально-20232B?style=flat-square)](#данные-и-границы-демонстрации)
 
-[Видеодемонстрация](#видеодемонстрация) · [Возможности](#что-умеет-собери) · [Запуск](#быстрый-старт) · [Проверки](#проверки)
+[Видеодемонстрация](#видеодемонстрация) · [Анимация логотипа](docs/media/soberi-intro.mp4) · [Возможности](#что-умеет-собери) · [Запуск](#быстрый-старт) · [Проверки](#проверки)
 
 </div>
 
