@@ -2,7 +2,7 @@
 
 <a href="docs/media/soberi-intro.mp4">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="public/brand/logo-original.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/MihaylovvvR1/soberi/main/public/brand/logo-original.png" />
   <img src="docs/media/soberi-intro.gif" alt="СОБЕРИ — анимация фирменного логотипа" width="640" />
 </picture>
 </a>
